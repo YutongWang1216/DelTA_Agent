@@ -7,8 +7,6 @@ This repository releases the codes and data for the paper DelTA: An Online Docum
 - **[File Structure](#structure)**
 - **[Requirements](#requirements)**
 - **[Quick Start](#start)**
-- **[Citation](#citation)**
-
 
 ## **🤖 About DelTA**<a name="about"></a>
 **DelTA**, which is short for **Document-levEL Translation Agent**, is an online document-level translation agent based on multi-level memory. It consists of the following four memory components:
